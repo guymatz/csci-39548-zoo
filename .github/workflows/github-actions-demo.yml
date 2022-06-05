@@ -13,7 +13,7 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: Install npm packages for linting, etc.
         run: |
-          pip install html-lint
+          pip install html-linter
       - name: Lint HTML files
         run: |
           find . -name "*html" | xargs html_lint.py
