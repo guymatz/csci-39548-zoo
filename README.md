@@ -1,5 +1,5 @@
-# zoo-starter-code
+# The Matz Family Zoo
 
-This repository is the website starter code for Assignment 1 - Zoo.
+This repository is the website for a Zoo of the Matz children.
 
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+[Website link](https://guymatz.github.io/csci-39548-zoo/)
